@@ -1,1 +1,109 @@
 # MaterialEducativo
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tech Insights</title>
+</head>
+<body>
+
+    <!-- Encabezado con navegación -->
+    <header>
+        <h1>Tech Insights</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Inicio</a></li>
+                <li><a href="#">Unidad 1</a></li>
+                <li><a href="#">Unidad 2</a></li>
+                <li><a href="#">Unidad 3</a></li>
+                <li><a href="#">Referencias</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Contenido principal -->
+    <main>
+        
+        <!-- Hero / presentación -->
+        <section id="hero">
+            <h2>Recurso educativo digital abierto REDA</h2>
+            <p>Herramientas digitales emergentes e inteligencia artificial</p>
+            <figure>
+                <img src="img/hero.jpg" alt="Imagen representativa de inteligencia artificial">
+                <figcaption>La inteligencia artificial en la educación</figcaption>
+            </figure>
+        </section>
+
+        <!-- Bienvenida -->
+        <section id="bienvenida">
+            <h2>Bienvenida</h2>
+            <p>
+                Bienvenido al recurso educativo sobre el uso de herramientas digitales emergentes con inteligencia artificial, 
+                que le permitirá explorar el papel de la IA en los procesos educativos y de aprendizaje.
+            </p>
+        </section>
+
+        <!-- Últimos posts u objetivos de aprendizaje -->
+        <section id="objetivos">
+            <h2>Objetivos de aprendizaje</h2>
+
+            <article>
+                <h3>Unidad 1</h3>
+                <p>Identificar el papel de la inteligencia artificial en los procesos de enseñanza y aprendizaje.</p>
+            </article>
+
+            <article>
+                <h3>Unidad 2</h3>
+                <p>Reconocer herramientas digitales emergentes que apoyan la educación.</p>
+            </article>
+
+            <article>
+                <h3>Unidad 3</h3>
+                <p>Analizar experiencias de implementación de inteligencia artificial en el ámbito educativo.</p>
+            </article>
+        </section>
+
+        <!-- Contenidos -->
+        <section id="contenidos">
+            <h2>Contenidos</h2>
+            <ul>
+                <li>Unidad 1: Inteligencia artificial como apoyo al aprendizaje</li>
+                <li>Unidad 2: Herramientas digitales emergentes</li>
+                <li>Unidad 3: Experiencias y casos de estudio</li>
+            </ul>
+        </section>
+
+        <!-- Evaluación -->
+        <section id="evaluacion">
+            <h2>Evaluación</h2>
+            <p>
+                La evaluación consistirá en la elaboración de actividades prácticas que integren el uso de herramientas digitales emergentes 
+                y la inteligencia artificial en el contexto educativo.
+            </p>
+        </section>
+
+        <!-- Aside con contenido secundario -->
+        <aside>
+            <h2>Posts Populares</h2>
+            <ul>
+                <li><a href="#">Cómo la IA transforma la educación</a></li>
+                <li><a href="#">Top 5 herramientas digitales emergentes</a></li>
+                <li><a href="#">Experiencias docentes con inteligencia artificial</a></li>
+            </ul>
+        </aside>
+
+    </main>
+
+    <!-- Pie de página -->
+    <footer>
+        <p>&copy; 2025 Tech Insights - Todos los derechos reservados</p>
+        <p>Síguenos en 
+            <a href="#">Facebook</a>, 
+            <a href="#">Twitter</a>, 
+            <a href="#">Instagram</a>
+        </p>
+    </footer>
+
+</body>
+</html>
