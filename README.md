@@ -20,11 +20,11 @@
         </nav>
     </header>
     <main>
-        <section id="hero">
+        <section id="centro">
             <h2>Recurso educativo digital abierto REDA</h2>
             <p>Herramientas digitales emergentes e inteligencia artificial</p>
             <figure>
-                <img src="img/hero.jpg" alt="Imagen representativa de inteligencia artificial">
+                <img src="" alt="l">
                 <figcaption>La inteligencia artificial en la educación</figcaption>
             </figure>
         </section>
