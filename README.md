@@ -75,7 +75,7 @@
         </aside>
     </main>
     <footer>
-        <p>&copy; 2025 Tech Insights - Todos los derechos reservados</p>
+        <p>&copy; 2025  - Todos los derechos reservados</p>
         <p>Síguenos en 
             <a href="#">Facebook</a>, 
             <a href="#">Twitter</a>, 
