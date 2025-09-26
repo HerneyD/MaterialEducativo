@@ -24,7 +24,7 @@
             <h2>Recurso educativo digital abierto REDA</h2>
             <p>Herramientas digitales emergentes e inteligencia artificial</p>
             <figure>
-                # <img src="" alt="l">
+                
                 <figcaption>La inteligencia artificial en la educación</figcaption>
             </figure>
         </section>
