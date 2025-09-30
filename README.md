@@ -1,4 +1,4 @@
-# MaterialEducativo
+# MaterialEducativo  parte de bienvenida poner aside
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -27,7 +27,7 @@
                 <figcaption>La inteligencia artificial en la educación</figcaption>
             </figure>
         </section>
-        <section id="bienvenida">
+        <section id="bienvenida"> 
             <h2>Bienvenida</h2>
             <p>
                 Bienvenido al recurso educativo sobre el uso de herramientas digitales emergentes con inteligencia artificial, 
@@ -36,7 +36,7 @@
         </section>
         <section id="objetivos">
             <h2>Objetivos de aprendizaje</h2>
-            <article>
+            <article>.
                 <h3>Unidad 1</h3>
                 <p>Identificar el papel de la inteligencia artificial en los procesos de enseñanza y aprendizaje.</p>
             </article>
