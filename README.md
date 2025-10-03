@@ -1,4 +1,4 @@
-# MaterialEducativo  parte de bienvenida poner aside
+# MaterialEducativo parte de bienvenida poner aside
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -27,14 +27,14 @@
                 <figcaption>La inteligencia artificial en la educación</figcaption>
             </figure>
         </section>
-        <section id="bienvenida"> 
+        <aside id="bienvenida"> 
             <h2>Bienvenida</h2>
             <p>
                 Bienvenido al recurso educativo sobre el uso de herramientas digitales emergentes con inteligencia artificial, 
                 que le permitirá explorar el papel de la IA en los procesos educativos y de aprendizaje.
             </p>
-        </section>
-        <section id="objetivos">
+        </aside>
+        <aside id="objetivos">
             <h2>Objetivos de aprendizaje</h2>
             <article>.
                 <h3>Unidad 1</h3>
@@ -48,15 +48,15 @@
                 <h3>Unidad 3</h3>
                 <p>Analizar experiencias de implementación de inteligencia artificial en el ámbito educativo.</p>
             </article>
-        </section>
-        <section id="contenidos">
+        </aside>
+        <aside id="contenidos">
             <h2>Contenidos</h2>
             <ul>
                 <li>Unidad 1: Inteligencia artificial como apoyo al aprendizaje</li>
                 <li>Unidad 2: Herramientas digitales emergentes</li>
                 <li>Unidad 3: Experiencias y casos de estudio</li>
             </ul>
-        </section>
+        </aside>
         <section id="evaluacion">
             <h2>Evaluación</h2>
             <p>
