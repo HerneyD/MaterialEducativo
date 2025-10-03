@@ -1,4 +1,4 @@
-# MaterialEducativo parte de bienvenida poner aside
+# MaterialEducativo 
 <!DOCTYPE html>
 <html lang="es">
 <head>
